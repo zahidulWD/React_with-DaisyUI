@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/7RgNRJq/Classic-Burger.jpg",
+      "price": 5.99,
+      "name": "Classic Burger",
+      "title": "Delicious Beef Burger"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/bmq6vzh/Pepperoni-Pizza.jpg",
+      "price": 9.99,
+      "name": "Pepperoni Pizza",
+      "title": "Cheesy Pepperoni Delight"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/vVt0Vwq/Italian-Pasta.jpg",
+      "price": 7.99,
+      "name": "Italian Pasta",
+      "title": "Creamy Alfredo Pasta"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/89yqwcS/Caesar-Salad.jpg",
+      "price": 4.99,
+      "name": "Caesar Salad",
+      "title": "Fresh Caesar Salad with Croutons"
+    }
+
+  ]
+  
