@@ -2,7 +2,10 @@
 import './App.css'
 // import FoodCard from './Component/FoodCard/FoodCard'
 import FoodList from './Component/Foodlist/FoodList'
+import LineChart from './Component/LIneChart/LineChart'
 import Navbar from './Component/Navbar/Navbar'
+import BarChartComponent from './Component/BarChart/BarChartComponent';
+
 
 function App() {
 
@@ -14,6 +17,8 @@ function App() {
       <Navbar></Navbar>
       {/* <FoodCard></FoodCard> */}
       <FoodList></FoodList>
+      <LineChart></LineChart>
+      <BarChartComponent></BarChartComponent>
       
     </>
   )

@@ -11,6 +11,7 @@ const FoodList = () => {
     }, []);
 
     return (
+
         <div>
             <h1 className='text-5xl text-center font-bold text-blue-600'>
                 WELCOME TO OUR FOOD SHOP
